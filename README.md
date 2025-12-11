@@ -1,4 +1,4 @@
-# KNN (K-Nearest Neighbors.)
+# K-Nearest Neighbors
 # A Beginner’s Guide to K-Nearest Neighbors (KNN) Algorithm
 
 In the realm of machine learning, some algorithms are as intuitive as they are powerful. One such algorithm is K-Nearest Neighbors (KNN). Known for its simplicity and effectiveness, KNN is a popular choice for both classification and regression tasks. This blog will walk you through the fundamentals of KNN, its working, and practical applications.
